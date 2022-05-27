@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practikafetch/static/css/main.288f1e60.css",
+    "main.js": "/practikafetch/static/js/main.c36852c6.js",
+    "index.html": "/practikafetch/index.html",
+    "main.288f1e60.css.map": "/practikafetch/static/css/main.288f1e60.css.map",
+    "main.c36852c6.js.map": "/practikafetch/static/js/main.c36852c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288f1e60.css",
+    "static/js/main.c36852c6.js"
+  ]
+}
